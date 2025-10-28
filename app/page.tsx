@@ -133,7 +133,7 @@ export default function Home() {
                     <div className="text-center mb-16">
                         <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Featured Projects</h2>
                         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-                            Discover how we're using data and AI to create positive impact across Africa
+                            Discover how we&apos;re using data and AI to create positive impact across Africa
                         </p>
                     </div>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -143,7 +143,7 @@ export default function Home() {
                             </div>
                             <h3 className="text-xl font-semibold text-gray-900 mb-3">National Data Strategy</h3>
                             <p className="text-gray-600 mb-4">
-                                Supporting Uganda's government in developing a comprehensive national data strategy 
+                                Supporting Uganda&apos;s government in developing a comprehensive national data strategy 
                                 to enhance data governance and utilization.
                             </p>
                             <div className="text-sm text-un-blue font-medium">Uganda • 2023-2024</div>
@@ -227,7 +227,7 @@ export default function Home() {
                     <div className="text-center mb-16">
                         <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Get In Touch</h2>
                         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-                            Interested in collaborating with us? We'd love to hear from you.
+                            Interested in collaborating with us? We&apos;d love to hear from you.
                         </p>
                     </div>
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
